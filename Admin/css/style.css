@@ -1,0 +1,178 @@
+*{
+	margin:0px;
+	padding:0px;
+	outline:0px;
+	}
+	
+img{
+	border:0px;
+	}
+	
+ul, ol{
+	list-style-type:none;
+	}
+	
+a{
+	text-decoration:none;
+	}
+	
+.clr{
+	clear:both;
+	}
+	
+body{
+	font-family:Verdana, Geneva, sans-serif;
+	}
+	
+/*header part code start*/
+
+.header_full{
+	background-color:#3a80a7;
+	}
+	
+.header{
+	background-color:#3a80a7;
+	height:50px;
+	}
+	
+/*content part code start*/
+.content_full{
+	
+	}
+	
+.content{
+	
+	}
+	
+/*form element code start*/
+.req_span{
+	color:red;
+	}
+	
+.amar_btn{
+	padding:0px 15px;
+	border:1px solid #000033;
+	background:none;
+	font-family:Tahoma, Geneva, sans-serif;
+	float:right;
+	line-height:25px;
+	height:30px;
+	border-radius:3px;
+	transition:linear all 0.5s;
+	text-decoration:none;
+	color:#fff;
+	}
+	
+.amar_btn:hover{
+	background-color:#000033;
+	text-decoration:none;
+	color:#fff;
+	}
+	
+.amar_btn i{
+	padding-right:5px;
+	}
+	
+.amar_table{
+	border:1px solid #ccc;
+	}
+	
+.amar_table > thead{
+	background-color:#333;
+	color:#fff;
+	}
+/*sidebar code start*/	
+.sidebar{
+	background-color:#222d32;
+	min-height:700px;
+	margin:0px;
+	padding:0px;
+	}
+	
+.sidebar_user{
+	text-align:center;
+	padding-bottom:20px;
+	border-bottom:1px solid #000;
+	}
+	
+.sidebar_user img{
+	width:80px;
+	height:80px;
+	border-radius:50%;
+	border:2px solid #666;
+	margin:20px auto 5px;
+	}
+	
+.sidebar_user h4{
+	color:#CCC;
+	margin-bottom:2px;
+	}
+	
+.sidebar_user p{
+	color:#CCC;
+	font-size:14px;
+	font-weight:bold;
+	}
+	
+.sidebar_user p i{
+	color:#090;
+	}
+	
+.menu{
+
+	}
+	
+.menu h2{
+	font-size:15px;
+	margin:0px;
+	padding:0px;
+	text-align:center;
+	background-color:#1b222a;
+	display:block;
+	line-height:40px;
+	border-bottom:1px solid #000;
+	color:#999;
+	}
+	
+.menu ul{
+	
+	}
+	
+.menu ul li {
+	
+	}
+	
+.menu ul li a{
+	font-size:18px;
+	border-bottom:1px solid #000;
+	line-height:40px!important;
+	display:block;
+	padding-left:20px;
+	color:#ccc;
+	outline:0px;
+	}
+	
+.menu ul li:last-child a{
+	border-bottom:0px;
+	}
+	
+.menu ul li a:hover{
+	text-decoration:none;
+	outline:0px;
+	}
+	
+.content{
+	margin:0px;
+	padding:0px;
+	}
+	
+
+/*footer part code start*/
+.footer_full{
+	background-color:#1e282c;
+	}
+	
+.footer{
+	background-color:#1e282c;
+	height:50px;
+	}
